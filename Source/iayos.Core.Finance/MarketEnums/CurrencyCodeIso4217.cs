@@ -5,6 +5,8 @@
 		DEVELOPER_ERROR = 0,
 		AUD,
 		CAD,
+		CHF,
+		DKK,
 		EUR,
 		GBP,
 		SEK,
