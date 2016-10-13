@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>iayos.Core.Finance</id>
+    <version>0.0.1</version>
+    <authors>Dale Holborow</authors>
+    <owners>Dale Holborow</owners>
+    <projectUrl>https://github.com/daleholborow/iayos.core.finance</projectUrl>
+	<licenseUrl>https://github.com/daleholborow/iayos.core.finance/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>
+		CountryCode ISO3166, CurrencyCode ISO4217, GICS, S and P classifications, etc etc used 
+		throughout various iayos projects, containing lookup values for market-related ISO lookups.
+	</description>
+    <releaseNotes>
+		This is the initial package, it will change a lot and I make no apologies for it 
+		being flaky or broken :) Has a bunch of dependencies but I haven't logged them properly yet.
+	</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+	<summary>
+		CountryCode ISO3166, CurrencyCode ISO4217, GICS, S and P classifications, etc etc
+	</summary>
+    <tags>iayos finance ISO in-a-year-or-so</tags>
+	<title>iayos.Core.Finance</title>
+    <dependencies>
+      <!-- <dependency id="SampleDependency" version="1.0" /> -->
+    </dependencies>
+  </metadata>
+  <files>
+	<file src="iayos.Core.Finance\bin\Debug\iayos.Core.Finance.dll" target="lib\iayos.Core.Finance.dll" />
+  </files>
+</package>
