@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>iayos.Core.Finance</id>
+    <id>iayos.core.finance</id>
     <version>0.0.1</version>
+	<author>Dale Holborow</author>
     <authors>Dale Holborow</authors>
     <owners>Dale Holborow</owners>
     <projectUrl>https://github.com/daleholborow/iayos.core.finance</projectUrl>
