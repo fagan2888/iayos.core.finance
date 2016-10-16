@@ -46,6 +46,10 @@
     <Compile Include="MarketEnums\DividendTypeCodeIso20022.cs" />
     <Compile Include="MarketEnums\GlobalIndustryClassificationStandardIndustryGroup.cs" />
     <Compile Include="MarketEnums\GlobalIndustryClassificationStandardSector.cs" />
+    <Compile Include="MarketEnums\IndustryClassificationBenchmarkIndustry.cs" />
+    <Compile Include="MarketEnums\IndustryClassificationBenchmarkSector.cs" />
+    <Compile Include="MarketEnums\IndustryClassificationBenchmarkSubsector.cs" />
+    <Compile Include="MarketEnums\IndustryClassificationBenchmarkSuperSector.cs" />
     <Compile Include="MarketEnums\MarketIdCodeIso10383.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
