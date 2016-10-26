@@ -1,4 +1,4 @@
-﻿namespace iayos.Core.Finance.MarketEnums
+﻿namespace iayos.core.finance.MarketEnums
 {
 	/// <summary>
 	/// DEVELOPER_ERROR = 0,

@@ -1,4 +1,4 @@
-﻿namespace iayos.Core.Finance.MarketEnums
+﻿namespace iayos.core.finance.MarketEnums
 {
 	/// <summary>
 	/// https://en.wikipedia.org/wiki/Industry_Classification_Benchmark

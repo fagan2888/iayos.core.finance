@@ -1,15 +1,16 @@
-﻿namespace iayos.Core.Finance.MarketEnums
+﻿namespace iayos.core.finance.MarketEnums
 {
 	public enum CurrencyCodeIso4217
 	{
 		DEVELOPER_ERROR = 0,
 		AUD,
 		CAD,
-		CHF,
-		DKK,
+		CHF,			// swiss franc
+		DKK,			// danish krone
 		EUR,
 		GBP,
-		SEK,
+		ISK,			// icelandic krona
+		SEK,			// swedish krona
 		USD
 	}
 }
