@@ -10,7 +10,11 @@
 	/// </summary>
 	public enum MarketIdCodeIso10383
 	{
-		DEVELOPER_ERROR = 0,
+		/// <summary>
+		/// By setting this to zero, we know it will be the default, and will alert us when we've forgotten to initialise
+		/// </summary>
+		IAYOS_UNINIT_ERROR = 0,
+
 		XHEL,       // NASDAQ HELSINKI Ltd
 		NASD,       // NASDAQ DARK
 		XASX,       // AUSTRALIAN STOCK EXCHANGE (ALL MARKETS)
@@ -18,14 +22,6 @@
 		XNYS,        // NEW YORK STOCK EXCHANGE
 
 		XCSE,		// First North Denmark
-
-	}
-
-
-	public enum OperatingMarketIdCodeIso10383
-	{
-		DEVELOPER_ERROR = 0,
-		FNDK,			// North North Denmark
 
 	}
 }

@@ -6,7 +6,11 @@
 	/// </summary>
 	public enum GlobalIndustryClassificationStandardSector
 	{
-		DEVELOPER_ERROR = 0,
+		/// <summary>
+		/// By setting this to zero, we know it will be the default, and will alert us when we've forgotten to initialise
+		/// </summary>
+		IAYOS_UNINIT_ERROR = 0,
+
 		Energy = 10,
 		Materials = 15,
 		Industrials = 20,

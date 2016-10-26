@@ -11,7 +11,11 @@
 	/// </summary>
 	public enum DividendTypeCodeIso20022
 	{
-		DEVELOPER_ERROR = 0,
+		/// <summary>
+		/// By setting this to zero, we know it will be the default, and will alert us when we've forgotten to initialise
+		/// </summary>
+		IAYOS_UNINIT_ERROR = 0,
+
 		CASH = 10, // Name: Cash
 		UNIT = 20, // Code: Units,
 		SCRI = 30, // Name: Scrip,

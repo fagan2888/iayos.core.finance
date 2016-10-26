@@ -5,7 +5,11 @@
 	/// </summary>
 	public enum IndustryClassificationBenchmarkIndustry
 	{
-		DEVELOPER_ERROR = 0,
+		/// <summary>
+		/// By setting this to zero, we know it will be the default, and will alert us when we've forgotten to initialise
+		/// </summary>
+		IAYOS_UNINIT_ERROR = 0,
+
 		OilAndGas = 0001,
 		BasicMaterials = 1000,
 		Industrials = 2000,
