@@ -7,14 +7,65 @@
 		/// </summary>
 		IAYOS_UNINIT_ERROR = 0,
 
+
+		/// <summary>
+		/// Australian Dollar
+		/// </summary>
 		AUD,
+
+
+		/// <summary>
+		/// Canadian Dollar
+		/// </summary>
 		CAD,
-		CHF,			// swiss franc
-		DKK,			// danish krone
+
+		/// <summary>
+		/// swiss franc
+		/// </summary>
+		CHF,
+
+		/// <summary>
+		/// danish krone
+		/// </summary>
+		DKK,
+
+		//Estonian Kroon
+		EEK,
+
+		/// <summary>
+		/// EURO
+		/// </summary>
 		EUR,
+
+		/// <summary>
+		/// Great British Pound
+		/// </summary>
 		GBP,
-		ISK,			// icelandic krona
-		SEK,			// swedish krona
+
+		/// <summary>
+		/// icelandic krona
+		/// </summary>
+		ISK,
+
+		/// <summary>
+		/// Lithuanian Litas
+		/// </summary>
+		LTL,
+
+
+		/// <summary>
+		/// New Zealand Dollar
+		/// </summary>
+		NZD,
+
+		/// <summary>
+		/// swedish krona
+		/// </summary>
+		SEK,
+
+		/// <summary>
+		///  US Dollars
+		/// </summary>
 		USD
 	}
 }
