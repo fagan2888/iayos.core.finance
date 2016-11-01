@@ -48,6 +48,11 @@
 		ISK,
 
 		/// <summary>
+		/// Latvian Lats
+		/// </summary>
+		LVL,
+
+		/// <summary>
 		/// Lithuanian Litas
 		/// </summary>
 		LTL,
