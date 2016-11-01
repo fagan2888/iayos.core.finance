@@ -13,7 +13,7 @@
 			throughout various iayos projects, containing lookup values for market-related ISO lookups.
 		</description>
 		<releaseNotes>
-			Added more currencies (Norwegian, Belarus) 
+			Added more currencies (Norwegian, Belarus) , forcing redeploy to nuget
 		</releaseNotes>
 		<copyright>Copyright © 2016</copyright>
 		<summary>
