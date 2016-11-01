@@ -13,7 +13,11 @@
 		/// </summary>
 		AUD,
 
-
+		/// <summary>
+		/// Belarusian Ruble
+		/// </summary>
+		BYR, 
+			
 		/// <summary>
 		/// Canadian Dollar
 		/// </summary>
@@ -28,8 +32,10 @@
 		/// danish krone
 		/// </summary>
 		DKK,
-
-		//Estonian Kroon
+		
+		/// <summary>
+		/// Estonian Kroon
+		/// </summary>
 		EEK,
 
 		/// <summary>
@@ -57,6 +63,10 @@
 		/// </summary>
 		LTL,
 
+		/// <summary>
+		/// Norwegian Krone
+		/// </summary>
+		NOK,
 
 		/// <summary>
 		/// New Zealand Dollar
