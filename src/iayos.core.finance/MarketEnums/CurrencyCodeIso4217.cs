@@ -48,6 +48,12 @@
 		/// </summary>
 		GBP,
 
+
+		/// <summary>
+		/// Great Britain (Pence Sterling)
+		/// </summary>
+		GBX, 
+
 		/// <summary>
 		/// icelandic krona
 		/// </summary>
